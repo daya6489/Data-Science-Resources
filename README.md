@@ -187,7 +187,7 @@
 * [Define customer churn b2b](https://qymatix.de/en/define-customer-churn-b2b/)
 * [Churn Rate](https://clevertap.com/blog/churn-rate/)
 * [Identify churn at risk customers](https://www.higherlogic.com/blog/identify-churn-at-risk-customers/)
-* [Customer retention metrics](https://blog.hubspot.com/service/customer-retention-metrics
+* [Customer retention metrics](https://blog.hubspot.com/service/customer-retention-metrics)
 * [New customers vs return customers](https://helprace.com/blog/new-customers-vs-return-customers)
 * [Customer purchase behaviour analytics](https://www.ecommercialise.com/customer-purchase-behaviour-analytics/)
 
