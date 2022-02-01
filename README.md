@@ -228,6 +228,8 @@
 * [BERT](https://medium.com/data-science-in-your-pocket/bert-a-deeper-dive-7412db7c1a93)
 * [PDF table extractions](https://medium.com/swlh/pdfs-parsing-using-yolov3-987c85c639dc)
 * [SQL](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html?utm_content=74109392&utm_medium=social&utm_source=linkedin)
+* [data storytelling](https://medium.com/data-science-at-microsoft/using-star-trek-to-help-understand-what-data-storytelling-means-and-how-you-can-do-it-too-24f2eb4a2554)
+
 
 # R package Development
 ## Useful web links
