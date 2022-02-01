@@ -76,6 +76,10 @@
 
 ### ML Classifiers
 
+**Optimization**
+
+* [BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
+
 **Decision Tree**
 
 * [Decision tree classifier implementation in r](https://dataaspirant.com/2017/02/03/decision-tree-classifier-implementation-in-r/)
@@ -173,6 +177,14 @@
 ### Clustering
 * [Clustering a tutorial for cluster analysis with r](http://www.datasciencecentral.com/profiles/blogs/r-clustering-a-tutorial-for-cluster-analysis-with-r)
 * [The 5 clustering algorithms data scientists need to know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+
+### Anomaly Detection Models
+* [isolation forest from scratch](https://towardsdatascience.com/isolation-forest-from-scratch-e7e5978e6f4c)
+* [Anomaly Detection LSTM AutoEncoder](https://github.com/caglanakpinar/Anomaly_Detection_LSTM_AutoEncoder/blob/master/model_train_dbscan.py)
+* [Extended Isolation Forest](https://github.com/sahandha/eif)
+* [Paper: Isolation-based Anomaly Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.5779&rep=rep1&type=pdf)
+
+* [AzureML](https://github.com/microsoft/AutoBrewML/blob/main/Notebooks/Supervised%20Machine%20Learning/AMLMasterNotebook.py)
 
 ### Customer Churn Predictions 
 * [Why churn](https://www.kaggle.com/gauravduttakiit/why-churn)
