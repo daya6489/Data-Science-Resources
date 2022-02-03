@@ -183,7 +183,7 @@
 * [Anomaly Detection LSTM AutoEncoder](https://github.com/caglanakpinar/Anomaly_Detection_LSTM_AutoEncoder/blob/master/model_train_dbscan.py)
 * [Extended Isolation Forest](https://github.com/sahandha/eif)
 * [Paper: Isolation-based Anomaly Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.5779&rep=rep1&type=pdf)
-
+* [Isolation Forest - A simple walkthorugh video](https://youtu.be/qNDcPUeCEPI)
 * [AzureML](https://github.com/microsoft/AutoBrewML/blob/main/Notebooks/Supervised%20Machine%20Learning/AMLMasterNotebook.py)
 
 ### Customer Churn Predictions 
