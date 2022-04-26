@@ -173,6 +173,8 @@
 * [Gitpage - Shapwaterfall](https://github.com/JohnBHalstead/shapwaterfall)
 * [python - Shapwaterfall](https://pypi.org/project/shapwaterfall/)
 * [SHAP](https://shap.readthedocs.io/en/latest/tabular_examples.html)
+* [SHAP example](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
+* [SHAP from Scratch - part1](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 
 ### Clustering
 * [Clustering a tutorial for cluster analysis with r](http://www.datasciencecentral.com/profiles/blogs/r-clustering-a-tutorial-for-cluster-analysis-with-r)
@@ -185,6 +187,7 @@
 * [Paper: Isolation-based Anomaly Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.5779&rep=rep1&type=pdf)
 * [Isolation Forest - A simple walkthorugh video](https://youtu.be/qNDcPUeCEPI)
 * [AzureML](https://github.com/microsoft/AutoBrewML/blob/main/Notebooks/Supervised%20Machine%20Learning/AMLMasterNotebook.py)
+* [anomaly detection and mahalanobis distance](https://medium.com/@ikaya754/anomaly-detection-and-mahalanobis-distance-25b21b7cfe5b)
 
 ### Customer Churn Predictions 
 * [Why churn](https://www.kaggle.com/gauravduttakiit/why-churn)
