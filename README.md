@@ -175,6 +175,7 @@
 * [SHAP](https://shap.readthedocs.io/en/latest/tabular_examples.html)
 * [SHAP example](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
 * [SHAP from Scratch - part1](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
+* [black box models are actually more explainable than a logistic regression](https://medium.com/towards-data-science/black-box-models-are-actually-more-explainable-than-a-logistic-regression-f263c22795d)
 
 ### Clustering
 * [Clustering a tutorial for cluster analysis with r](http://www.datasciencecentral.com/profiles/blogs/r-clustering-a-tutorial-for-cluster-analysis-with-r)
