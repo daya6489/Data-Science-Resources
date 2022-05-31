@@ -176,6 +176,7 @@
 * [SHAP example](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
 * [SHAP from Scratch - part1](https://towardsdatascience.com/shap-explained-the-way-i-wish-someone-explained-it-to-me-ab81cc69ef30)
 * [black box models are actually more explainable than a logistic regression](https://medium.com/towards-data-science/black-box-models-are-actually-more-explainable-than-a-logistic-regression-f263c22795d)
+* [shap waterfall](https://github.com/JohnBHalstead/shapwaterfall)
 
 ### Clustering
 * [Clustering a tutorial for cluster analysis with r](http://www.datasciencecentral.com/profiles/blogs/r-clustering-a-tutorial-for-cluster-analysis-with-r)
@@ -206,6 +207,7 @@
 * [Customer retention metrics](https://blog.hubspot.com/service/customer-retention-metrics)
 * [New customers vs return customers](https://helprace.com/blog/new-customers-vs-return-customers)
 * [Customer purchase behaviour analytics](https://www.ecommercialise.com/customer-purchase-behaviour-analytics/)
+* [Estimating customer churn based on usage data](https://medium.com/data-science-at-microsoft/estimating-customer-churn-based-on-usage-data-2662e0c68dc7)
 
 **Deep Learning Method**
 
