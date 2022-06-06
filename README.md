@@ -167,6 +167,7 @@
 * [Awesome deep trading](https://github.com/cbailes/awesome-deep-trading)
 * [PAA](https://jmotif.github.io/sax-vsm_site/morea/algorithm/PAA.html)
 * [Web traffic time series forecast](https://www.kaggle.com/ymlai87416/web-traffic-time-series-forecast-with-4-model)
+* [MultiQuantile Neural Hierarchical Interpolation for Time Series](https://github.com/Nixtla/neuralforecast/blob/main/examples/mqnhits.ipynb)
 
 ### Model Interpreations
 * [ML understanding  using R](http://uc-r.github.io/iml-pkg)
