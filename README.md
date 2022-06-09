@@ -16,6 +16,12 @@
 * [Mahalanobis distance](https://www.machinelearningplus.com/statistics/mahalanobis-distance/)
 * [11 dimensionality reduction techniques](https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b)
 
+### Machine Learning and Data Science easy learning materials
+Microsoft has some free #datascience and #machinelearning courses on GitHub
+* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+* [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
 ### Data Science Interivew Tips
 * [Want to Become a Data Scientist](https://www.kdnuggets.com/2017/10/become-data-scientist-read-interview-first.html#%2EWeDCUya_gDU%2Elinkedinp)
 * [Difference of Data Science, Machine Learning and Data Mining](https://www.datasciencecentral.com/profiles/blogs/difference-of-data-science-machine-learning-and-data-mining?utm_content=buffere1171&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
