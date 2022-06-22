@@ -21,6 +21,7 @@ Microsoft has some free #datascience and #machinelearning courses on GitHub
 * [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
 * [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+* [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 
 ### Data Science Interivew Tips
 * [Want to Become a Data Scientist](https://www.kdnuggets.com/2017/10/become-data-scientist-read-interview-first.html#%2EWeDCUya_gDU%2Elinkedinp)
