@@ -41,6 +41,7 @@ Microsoft has some free #datascience and #machinelearning courses on GitHub
 * [How to implement deep learning in r using keras and tensorflow](https://towardsdatascience.com/how-to-implement-deep-learning-in-r-using-keras-and-tensorflow-82d135ae4889)
 * [Deep Learning Research](https://opendatascience.com/blog/deep-learning-research-review-week-3-natural-language-processing/)
 * [Trending DS deep learning methods](https://medium.com/@kguruswamy_37814/data-scientist-unsupervised-learning-and-the-promise-of-ai-e7b66959ab8)
+* [explaining BERT simply using sketches](https://mlwhiz.com/blog/2021/07/24/bert-sketches/?utm_campaign=explaining-bert-simply-using-sketches&utm_medium=social_link&utm_source=missinglettr)
 
 ### R, Python and AutomML packages
 * [Data science ecosystem: R vs Python vs Substitutes](http://www.datasciencecentral.com/profiles/blogs/the-data-science-ecosystem-r-vs-python-vs-substitutes?utm_content=buffer6b79b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
