@@ -29,6 +29,9 @@ Microsoft has some free #datascience and #machinelearning courses on GitHub
 * [Data Science, Machine Learning, BI Explained in a Amazing Paragraphs](https://www.datasciencecentral.com/profiles/blogs/business-intelligence-and-data-science-fuzzy-borders?utm_content=buffer5fc96&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [What is Predictive Analytics](https://intellipaat.com/blog/what-is-predictive-analytics/)
 
+### Book Collections
+* [𝐍𝐔𝐌𝐄𝐑𝐈𝐂𝐀𝐋 𝐎𝐏𝐓𝐈𝐌𝐈𝐙𝐀𝐓𝐈𝐎𝐍 𝐁𝐎𝐎𝐊 𝐛𝐲 𝐉𝐨𝐫𝐠𝐞 𝐍𝐨𝐜𝐞𝐝𝐚𝐥 𝐒𝐭𝐞𝐩𝐡𝐞𝐧 𝐚𝐧𝐝 𝐉. 𝐖𝐫𝐢𝐠𝐡𝐭](https://www.csie.ntu.edu.tw/~r97002/temp/num_optimization.pdf)
+
 ### Feature Engineering
 * [Discover Feature Engineering](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 * [Feature Engineering](http://www.feat.engineering/)
