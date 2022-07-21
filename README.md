@@ -39,6 +39,7 @@ Microsoft has some free #datascience and #machinelearning courses on GitHub
 
 ### Statistical Test Interpretations
 * [Minitab Express](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/anova/how-to/one-way-anova/interpret-the-results/all-statistics-and-graphs/)
+* [Kruskal–Wallis test: compare more then two groups](https://yury-zablotski.netlify.app/post/kruskal-wallis-test/)
 
 ### Deep Learning
 * [Getting Started Tensorflow](https://www.kdnuggets.com/2017/12/getting-started-tensorflow.html#%2EWjlEtTE282k%2Elinkedin)
