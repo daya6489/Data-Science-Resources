@@ -182,7 +182,7 @@ Microsoft has some free #datascience and #machinelearning courses on GitHub
 * [Web traffic time series forecast](https://www.kaggle.com/ymlai87416/web-traffic-time-series-forecast-with-4-model)
 * [MultiQuantile Neural Hierarchical Interpolation for Time Series](https://github.com/Nixtla/neuralforecast/blob/main/examples/mqnhits.ipynb)
 
-R usefull packages to learn time series
+R usefull packages to learn time series (Thanks to `Matt Dancho`)
 
 * [#timetk time series data wrangling + visualization](https://github.com/business-science/timetk)
 * [#modeltime time series forecasting](https://github.com/business-science/modeltime)
