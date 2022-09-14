@@ -214,6 +214,9 @@ R usefull packages to learn time series (Credits to `Matt Dancho`)
 * [Isolation Forest - A simple walkthorugh video](https://youtu.be/qNDcPUeCEPI)
 * [AzureML](https://github.com/microsoft/AutoBrewML/blob/main/Notebooks/Supervised%20Machine%20Learning/AMLMasterNotebook.py)
 * [anomaly detection and mahalanobis distance](https://medium.com/@ikaya754/anomaly-detection-and-mahalanobis-distance-25b21b7cfe5b)
+* [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/pdf/2009.02040.pdf)
+* [Handling Incomplete Heterogeneous Data using VAEs](https://arxiv.org/pdf/1807.03653.pdf)
+* [VAEs in the Presence of Missing Data](https://arxiv.org/pdf/2006.05301.pdf)
 
 ### Customer Churn Predictions 
 * [Why churn](https://www.kaggle.com/gauravduttakiit/why-churn)
