@@ -23,6 +23,12 @@ Microsoft has some free #datascience and #machinelearning courses on GitHub
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 
+### Data Cleaning is important
+* [Handling High Cardinality](https://medium.com/data-science-in-your-pocket/handling-high-cardinality-out-of-vocabulary-and-cold-start-in-categorical-data-db93f6d09ec3)
+* [What is nn.Embedding](https://medium.com/@gautam.e/what-is-nn-embedding-really-de038baadd24)
+* [Categorical Embedder: Encoding Categorical Variables via Neural Networks](https://medium.com/analytics-vidhya/categorical-embedder-encoding-categorical-variables-via-neural-networks-b482afb1409d)
+* []()
+
 ### Data Science Interivew Tips
 * [Want to Become a Data Scientist](https://www.kdnuggets.com/2017/10/become-data-scientist-read-interview-first.html#%2EWeDCUya_gDU%2Elinkedinp)
 * [Difference of Data Science, Machine Learning and Data Mining](https://www.datasciencecentral.com/profiles/blogs/difference-of-data-science-machine-learning-and-data-mining?utm_content=buffere1171&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
@@ -217,6 +223,7 @@ R usefull packages to learn time series (Credits to `Matt Dancho`)
 * [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/pdf/2009.02040.pdf)
 * [Handling Incomplete Heterogeneous Data using VAEs](https://arxiv.org/pdf/1807.03653.pdf)
 * [VAEs in the Presence of Missing Data](https://arxiv.org/pdf/2006.05301.pdf)
+* [Dimensionality Reduction Using Deep Learning: Autoencoder](https://socr.umich.edu/HTML5/ABIDE_Autoencoder/)
 
 ### Customer Churn Predictions 
 * [Why churn](https://www.kaggle.com/gauravduttakiit/why-churn)
