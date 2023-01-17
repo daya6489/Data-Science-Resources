@@ -250,6 +250,10 @@ R usefull packages to learn time series (Credits to `Matt Dancho`)
 * [PDF arxiv](https://arxiv.org/pdf/1909.11114.pdf)
 * [ProfLogit for Customer Churn Prediction](https://github.com/estripling/proflogit/tree/master/proflogit)
 
+**Search Distance Methods
+* [Levenshtein Distance](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
+
+
 ### Web Scraping
 * [Web Scraping Machine Learning using python](https://github.com/0xiNach/Web-Scraping-Machine-Learning/blob/master/Hackmageddon.ipynb)
 * [Web Scraping Hackmageddon](https://nycdatascience.com/blog/student-works/web-scraping-hackmageddon/)
