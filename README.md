@@ -209,6 +209,17 @@ R usefull packages to learn time series (Credits to `Matt Dancho`)
 * [black box models are actually more explainable than a logistic regression](https://medium.com/towards-data-science/black-box-models-are-actually-more-explainable-than-a-logistic-regression-f263c22795d)
 * [shap waterfall](https://github.com/JohnBHalstead/shapwaterfall)
 
+### Regression Models built using R and TensorFlow
+Links are copied from Linkdin post from Ian Johnson, Silicon Valley, CA, United States
+* [LightGBM](https://blog.alpha-analysis.com/2022/07/r-lightgbm-regression.html)
+* [Gradient boosting](https://blog.alpha-analysis.com/2019/06/using-gradient-boosted-machine-to.html)
+* [Support vector machine (SVM)](https://blog.alpha-analysis.com/2019/08/using-svm-to-predict-mpg-for-2019.html)
+* [TensorFlow Multiple linear regression](https://blog.alpha-analysis.com/2019/08/r-tensorflow-multiple-linear-regression.html)
+* [Neural network](https://blog.alpha-analysis.com/2019/09/r-neural-network.html)
+* [TensorFlow neural network](https://blog.alpha-analysis.com/2019/09/r-tensorflow-deep-neural-network.html)
+* [XGBoost](https://blog.alpha-analysis.com/2020/11/r-xgboost-regression.html)
+* [Multiple linear regression, decision trees, random forest](https://blog.alpha-analysis.com/2019/06/predicting-mpg-for-2019-vehicles-using-r.html)
+
 ### Clustering
 * [Clustering a tutorial for cluster analysis with r](http://www.datasciencecentral.com/profiles/blogs/r-clustering-a-tutorial-for-cluster-analysis-with-r)
 * [The 5 clustering algorithms data scientists need to know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
