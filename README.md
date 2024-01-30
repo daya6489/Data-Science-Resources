@@ -410,6 +410,11 @@ pkgdown::build_site().
 5. [knitr-markdown](https://cran.r-project.org/web/packages/knitr/vignettes/knitr-markdown.html)
 6. [rmarkdown.rstudio.com](https://rmarkdown.rstudio.com/lesson-7.html)
 
+## Git Account Management
+
+1. [Git Push specific remote branch](https://linuxhint.com/push-to-specific-branch-in-git/)
+2. 
+
 ## Create your own R Package Logo
 
 * [shixiangwang.github](https://shixiangwang.github.io/home/en/post/2019-06-20-how-i-create-ucscxenatools-logo/)
